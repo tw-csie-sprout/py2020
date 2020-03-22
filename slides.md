@@ -19,3 +19,4 @@
 - [for](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1rHYzsHL)
 - [for note](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1W5wA_BI)
 - [list](https://drive.google.com/file/d/16xW2PJmq4P8weI7xZAoUJ87wTh-vY9GM/view?usp=sharing)
+- [list note](https://drive.google.com/file/d/1fRubz1dElbno1cyrQkcdX7tVb80A8gGD/view?usp=sharing)
