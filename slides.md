@@ -13,3 +13,8 @@
 - [while](https://drive.google.com/file/d/1loToCI0y-sE-X2Yxjm6B9IirnG-Fe8Po/view)
 - [if note](note/If_note.html)
 - [while note](note/while note.html)
+
+## 第三週投影片 03/22
+
+-[for](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1rHYzsHL)
+-[list](https://drive.google.com/file/d/16xW2PJmq4P8weI7xZAoUJ87wTh-vY9GM/view?usp=sharing)
