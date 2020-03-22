@@ -16,5 +16,5 @@
 
 ## 第三週投影片 03/22
 
--[for](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1rHYzsHL)
--[list](https://drive.google.com/file/d/16xW2PJmq4P8weI7xZAoUJ87wTh-vY9GM/view?usp=sharing)
+- [for](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1rHYzsHL)
+- [list](https://drive.google.com/file/d/16xW2PJmq4P8weI7xZAoUJ87wTh-vY9GM/view?usp=sharing)
