@@ -24,3 +24,4 @@
 ## 第四週投影片 03/29
 
 - [string](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/SJaQT5W8L?fbclid=IwAR1vRTQ67yRY8_9Dx7SmJSFxdFZYDLJJQGhMkogS0wSRPFhbrxArs_2SqNs#/)
+- [dict](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/Byb_x6ZU8?fbclid=IwAR0A9zuv7hJ6sL4yRXjk05iXrts2UyREMFqnK5HxzghB2UJq_4_iojrQl-s#/)
