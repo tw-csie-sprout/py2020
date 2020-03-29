@@ -20,3 +20,7 @@
 - [for note](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/H1W5wA_BI)
 - [list](https://drive.google.com/file/d/16xW2PJmq4P8weI7xZAoUJ87wTh-vY9GM/view?usp=sharing)
 - [list note](https://drive.google.com/file/d/1fRubz1dElbno1cyrQkcdX7tVb80A8gGD/view?usp=sharing)
+
+## 第四週投影片 03/29
+
+- [string](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/SJaQT5W8L?fbclid=IwAR1vRTQ67yRY8_9Dx7SmJSFxdFZYDLJJQGhMkogS0wSRPFhbrxArs_2SqNs#/)
