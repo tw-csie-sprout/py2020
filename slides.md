@@ -29,3 +29,9 @@
 ## 第五週投影片 04/05
 
 - [Function](https://drive.google.com/open?id=1qHpsbcJrWtL2j5VEyfHRApYhH0ztRKHj)
+
+## 第六週投影片 04/12
+
+- [import](https://drive.google.com/file/d/1AIZDa3N-e48_7mnemjv4AFaSf1NoqtVO/view)
+- [import note](note/import_note.html)
+
