@@ -35,3 +35,7 @@
 - [import](https://drive.google.com/file/d/1AIZDa3N-e48_7mnemjv4AFaSf1NoqtVO/view)
 - [import note](note/import_note.html)
 
+## 第七週投影片 04/19
+
+- [複習](https://drive.google.com/open?id=1SxRlKDMJs_jaQP0EzG54OsLIXJo9xFqZ)
+
