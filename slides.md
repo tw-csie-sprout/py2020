@@ -37,5 +37,6 @@
 
 ## 第七週投影片 04/19
 
+- [Tips](https://drive.google.com/file/d/1pxHMH5cB_B6Io4t38oL4-_DOnL3c_Kmr/view?fbclid=IwAR1jAPVvMMcOQwGuJlMn5ri53Cp8u6KOSShA4FHlBhFJmulxkqqd2bzl0eQ)
 - [複習](https://drive.google.com/open?id=1SxRlKDMJs_jaQP0EzG54OsLIXJo9xFqZ)
 
