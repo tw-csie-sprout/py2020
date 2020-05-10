@@ -42,4 +42,4 @@
 - [review note](note/review_note_2020.html)
 
 ## 第九週投影片 05/10
-- [第二階段課程說明](https://drive.google.com/drive/u/0/folders/1EKQETkcLolCrQxA0RcLTN9dPB9uKgF8E)
+- [第二階段課程說明](https://drive.google.com/file/d/1bip4YanbhCAB224SgSUBm0CW5xpfrAXB/view?usp=sharing)
