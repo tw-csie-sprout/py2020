@@ -43,3 +43,4 @@
 
 ## 第九週投影片 05/10
 - [第二階段課程說明](https://drive.google.com/file/d/1bip4YanbhCAB224SgSUBm0CW5xpfrAXB/view?usp=sharing)
+- [File I/O](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/BkjOrzb9L)
