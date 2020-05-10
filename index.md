@@ -5,7 +5,9 @@
 
 請假一次扣出席分數 1 分。每階段各有三次請假額度，**若請假超過三次或無故缺席則不論成績如何皆無法獲得任何證書**；若出席達標準但成績未達結業標準，則可得到參加證書。
 但是因應疫情，病假附上醫生證明、居家檢疫，這些無法來上課的情況則不算在上述的三次請假額度內。
-若欲請假，請直接填請假表單即可 (https://docs.google.com/forms/d/e/1FAIpQLSebzjIl_d8eau3iO69-wW9R2pOmASWZOw8_MiFk6mNap5mPpQ/viewform?usp=sf_link)
+若欲請假，請直接填請假表單即可 
+第一階段請假表單：(https://docs.google.com/forms/d/e/1FAIpQLSebzjIl_d8eau3iO69-wW9R2pOmASWZOw8_MiFk6mNap5mPpQ/viewform?usp=sf_link)
+第二階段請假表單：(https://forms.gle/1DDCCd2bYoaWgpfY8)
 
 需要注意的是計算出來的原始分數並不對應到最終成績，最終成績將依照課程整體同學的表現狀況決定。
 
