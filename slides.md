@@ -41,3 +41,5 @@
 - [review](https://drive.google.com/open?id=1SxRlKDMJs_jaQP0EzG54OsLIXJo9xFqZ)
 - [review note](note/review_note_2020.html)
 
+## 第九週投影片 05/10
+- [第二階段課程說明](https://drive.google.com/drive/u/0/folders/1EKQETkcLolCrQxA0RcLTN9dPB9uKgF8E)
