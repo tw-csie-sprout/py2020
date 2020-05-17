@@ -19,3 +19,8 @@
 * [投影片](https://slides.com/piepie01/deck-7b91f2)
 * [作業壓縮檔](https://drive.google.com/file/d/1LkmHkK__hHqp6iYQCFnrERojkdTS0HKv/view?usp=sharing)
 * [繳交表單4/30(Thur.)23:59](https://forms.gle/KpRUJPRdQWfR6mo36)
+
+## 二階作業一 - 圖片管理系統
+
+* [投影片](https://slides.com/piepie01/deck-0f8933)
+* 繳交表單 : 未發布
