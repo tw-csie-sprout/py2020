@@ -47,3 +47,8 @@
 
 ## 第十週投影片 05/17
 - [discord bot](https://slides.com/piepie01/deck-0f8933)
+
+## 第十一週投影片 05/24
+- [class](https://hackmd.io/@-TyNLpH6RM-50upth1_LeQ/r1u5TN65I#/)
+- [Pygame](https://drive.google.com/open?id=1mtlGZs0OPgzDWaNy__IqnUcc4WslZVib)
+- [上課用範例](https://drive.google.com/open?id=1NTUT2OhB3Ym01DbhIFWzkVpgYrS807il)
