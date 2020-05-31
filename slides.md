@@ -57,4 +57,4 @@
 - [Pygame](https://drive.google.com/open?id=1gWlHUWQaP_IIoxhYCUKwaP2FkLrqiE_M)
 - [上課用範例](https://drive.google.com/open?id=1OfiiiatBqmbkNcSzDdMnkX0tjznZ0ULI)
 - [小作業說明](https://drive.google.com/open?id=1hXJmmO-H7eqX2IVVDNalJ6XqG_xqcqdF)
-- [小作業檔案](https://drive.google.com/open?id=1CQr8HTb-ZxA5gglIeJcpw7oe7Rw2YrrNv)
+- [小作業檔案](https://drive.google.com/file/d/1CQr8HTb-ZxA5gglIeJcpw7oe7Rw2YrrN/view?usp=sharing)
