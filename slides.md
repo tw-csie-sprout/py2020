@@ -58,3 +58,9 @@
 - [上課用範例](https://drive.google.com/open?id=1OfiiiatBqmbkNcSzDdMnkX0tjznZ0ULI)
 - [小作業說明](https://drive.google.com/open?id=1hXJmmO-H7eqX2IVVDNalJ6XqG_xqcqdF)
 - [小作業檔案](https://drive.google.com/file/d/1CQr8HTb-ZxA5gglIeJcpw7oe7Rw2YrrN/view?usp=sharing)
+
+## 第十三週投影片 06/07
+- [爬蟲](https://drive.google.com/file/d/1v62ti2dyC0zIGgZ9g_50EycDJVo0cadP/view?usp=sharing)
+- [上課用範例](https://drive.google.com/file/d/1lUM4H1kZNUXM2sAE_9HPntCUu417z6um/view?usp=sharing)
+- [小作業說明](https://drive.google.com/file/d/1sYx3mUUH01NGvFfwJ-d928B9Mmw8rOTi/view?usp=sharing)
+- [正規表示法](https://drive.google.com/file/d/1cYJjiM502SCAWpm1V4ISKZeabtQ6HuHv/view?usp=sharing)
