@@ -64,3 +64,8 @@
 - [上課用範例](https://drive.google.com/file/d/1lUM4H1kZNUXM2sAE_9HPntCUu417z6um/view?usp=sharing)
 - [小作業說明](https://drive.google.com/file/d/1sYx3mUUH01NGvFfwJ-d928B9Mmw8rOTi/view?usp=sharing)
 - [正規表示法](https://drive.google.com/file/d/1cYJjiM502SCAWpm1V4ISKZeabtQ6HuHv/view?usp=sharing)
+
+## 第十四週投影片 06/14
+- [NumPy & Matplotlib](https://drive.google.com/file/d/1ztDE-3G2OSOZa9te8MUgnzAf9pOIXgly/view?usp=sharing)
+- [NumPy note](note/NumPy.html)
+- [Matplotlib note](note/Matplotlib.html)
