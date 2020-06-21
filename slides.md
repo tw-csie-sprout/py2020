@@ -71,3 +71,7 @@
 - [正規表示法](https://drive.google.com/file/d/1T0pB9Ka_4UtSN_Bv0EOGXeU8sZbPNRtn/view)
 - [字串格式化](https://drive.google.com/file/d/15JxrYLsTZ7_b28YJm51hN1Gq-rjVbhUv/view)
 - [String format note](note/String format note.html)
+
+## 第十五週投影片 06/21
+
+- [List Comprehension](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/SkGbIxsp8)
