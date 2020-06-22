@@ -76,4 +76,5 @@
 
 - [List Comprehension](https://hackmd.io/@PT6BLnEyQKqwb49TgL9k0Q/SkGbIxsp8)
 - [Sort](https://docs.google.com/presentation/d/14sQv7HUd2s9pmxQzzA7t0oLTX9rP_F9Rf01QWhudLuA/edit?usp=sharing)
+- [Sort note](https://drive.google.com/file/d/1UjKamEy-FdCt-Yz7EiEeSoYyvY9b0I3w/view?fbclid=IwAR0q5SPAFTKQtS-WJCmNrK2BucI5s1CPfH0hAhm6VhNCNKMG40Bk0Ons8Gw)
 - [future](https://drive.google.com/file/d/1E3ND8CyesxjjRH1-wtWTqvBWI7vYrlQf/view?usp=sharing)
